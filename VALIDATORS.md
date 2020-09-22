@@ -282,7 +282,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
 | | KazanPool | Stake with us, it's easy! | @kazantip.betanet | 10% | RU | | |
 | <img src="https://github.com/SmartStake/info/blob/master/logo/smartstake.png" width="40"> | [Smart Stake](https://smartstake.io) | Smart Stake is a transparent, professional, and feature rich staking service provider. We provide staking service with realtime performance assessment & analytics tools. | @smartstake.betanet | 10% | CA | | |
-
+| <img src="https://static.wixstatic.com/media/61a03d_ef70bce9be614d73839fefa68a240da4~mv2.png/v1/fill/w_309,h_600,al_c,q_85,usm_0.66_1.00_0.01/61a03d_ef70bce9be614d73839fefa68a240da4~mv2.webp" width="40"> | [stakefarm.io](https://stakefarm.io) | Security + Reliability + Performance = Yeild / Risk. | @stakefarm.betanet | 10% | NZ | | |
 
 
 Notes:
